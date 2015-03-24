@@ -1,0 +1,2 @@
+# zpi
+Zespołowy projekt informatyczny
